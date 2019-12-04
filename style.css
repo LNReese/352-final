@@ -11,6 +11,7 @@ h1, h5{
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
+  color: #275473;
 }
 
 span{
@@ -20,6 +21,10 @@ span{
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+}
+
+img{
+  align-content: center;
 }
 
 .header-image{
@@ -37,9 +42,11 @@ p {
 }
 
 #story-text {
-  margin: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  margin: left;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: justify;
+
 }
 
 .column {
@@ -59,4 +66,8 @@ p {
 .caption1{
   font-size: 11px;
   margin: auto;
+}
+
+.copyright{
+  text-align: center;
 }
