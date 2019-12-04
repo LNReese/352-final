@@ -5,8 +5,21 @@ body {
 
 }
 
+.title-box{
+  padding-top: 20px;
+}
+
 h1, h5{
   font-family: 'Merriweather', serif;
+  margin: auto;
+}
+
+h5{
+  font-style: italic;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
 }
 
 .header-image{
