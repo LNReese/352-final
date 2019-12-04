@@ -23,6 +23,7 @@ span{
 
 p {
   font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
 
 .header-image{
@@ -31,4 +32,35 @@ p {
  background: url('https://photos.google.com/photo/AF1QipNbfLdu_Lu1LIyiAf0SaYFxxVH5aEzTCbWnst1_');
  background-size: cover;
 
+}
+
+.header-caption{
+  margin: auto;
+  text-align: right;
+  font-size: 11px
+}
+
+#story-text {
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  padding-bottom: 30px;
+}
+
+.caption1{
+  font-size: 11px;
+  margin: auto;
 }
