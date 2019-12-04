@@ -12,6 +12,9 @@ body {
 h1, h5{
   font-family: 'Merriweather', serif;
   margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
 }
 
 h5{
