@@ -5,13 +5,22 @@ font-family: 'Open Sans', sans-serif;*/
   padding-top: 20px;
 }
 
-h1, h5{
+h1{
   font-family: 'Merriweather', serif;
   margin: auto;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
   color: #275473;
+}
+
+h5{
+  font-family: 'Merriweather', serif;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  color: #060606;
 }
 
 span{
@@ -23,9 +32,6 @@ p {
   font-size: 18px;
 }
 
-img{
-  align-content: center;
-}
 
 .header-image{
  width: 100%;
