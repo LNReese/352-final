@@ -49,6 +49,11 @@ p {
 }
 
 
+.row{
+  margin: auto;
+  padding-left: 200px;
+}
+
 .col-md-6 {
   float: right;
   width: 100%;
